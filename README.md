@@ -11,16 +11,30 @@ Template for a Node.js and Typescript based Cloudflare Worker
 ## 🚀 Features
 
 - Semantic Release with Gitmoji
-- Automatic linting with [Eslint](https://eslint.org/)
+- Automatic publishing with [wrangler-action](https://github.com/cloudflare/wrangler-action)
+- Linting with [Eslint](https://eslint.org/)
 - Automatic Dependabot PR merging
 - Write code in Typescript
+- Comes with Mocha tests
 - Based on [Cloudflare's Workers template](https://github.com/cloudflare/worker-typescript-template)
 
-## 💻 Development
+## ⚙️ Setup
+
+1. [Create a new repository from this template](https://github.com/betahuhn/workers-template/generate)
+2. Clone your new repository
+2. Install dependencies using `npm install`
+3. Update package details in `package.json` and `README.md`
+   1. Find and replace `betahuhn/workers-template` with `user/repository`
+   2. Find and replace `@betahuhn/workers-template` with projects npm name
+4. Create a repository secret called `CF_API_TOKEN ` to use the [wrangler-action](https://github.com/cloudflare/wrangler-action)
+5. Specify your worker details in the `wrangler.toml` file (more info in [Cloudflare's Docs](https://developers.cloudflare.com/workers/cli-wrangler/configuration))
+
+## 💻 Available commands
 
 - run `yarn lint` or `npm run lint` to run eslint.
-- run `yarn dev` or `npm run dev` to run the Worker locally.
-- run `yarn build` or `npm run build` to produce a production version.
+- run `yarn test` or `npm run test` to run all Mocha tests.
+- run `yarn dev` or `npm run dev` to run the Worker locally with [Wrangler](https://developers.cloudflare.com/workers/cli-wrangler/commands#dev).
+- run `yarn build` or `npm run build` to produce a production version with webpack.
 
 ## ❔ About
 
