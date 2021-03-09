@@ -1,7 +1,7 @@
 {
-	"name": "@betahuhn/workers-template",
+	"name": "@betahuhn/cf-worker-starter",
 	"version": "1.0.0",
-	"description": "Template for Cloudflare Workers with GitHub Actions CI",
+	"description": "Starter Template for Cloudflare Workers with GitHub Actions CI and Automatic Releases",
 	"main": "index.js",
 	"scripts": {
 		"lint": "eslint ./src/ --ext .ts",
