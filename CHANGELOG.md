@@ -1,3 +1,13 @@
+## [v1.0.6] - 2021-04-26
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.6) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.5...v1.0.6) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.6) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.6.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.6.tar.gz))
+
+### Dependency updates
+
+- [`1c9013b`](https://github.com/betahuhn/workers-template/commit/1c9013b)  Bump @cloudflare/wrangler from 1.15.1 to 1.16.0
+- [`e198bd8`](https://github.com/betahuhn/workers-template/commit/e198bd8)  Bump webpack from 5.33.2 to 5.34.0
+- [`77f2069`](https://github.com/betahuhn/workers-template/commit/77f2069)  Bump webpack from 5.34.0 to 5.35.0
+
 ## [v1.0.5] - 2021-04-19
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.5) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.4...v1.0.5) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.5) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.5.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.5.tar.gz))
