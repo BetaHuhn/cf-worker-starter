@@ -1,3 +1,17 @@
+## [v1.0.7] - 2021-05-03
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.7) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.6...v1.0.7) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.7) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.7.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.7.tar.gz))
+
+### Dependency updates
+
+- [`f0cd357`](https://github.com/betahuhn/workers-template/commit/f0cd357)  Bump eslint from 7.24.0 to 7.25.0
+- [`5d1f2a5`](https://github.com/betahuhn/workers-template/commit/5d1f2a5)  Bump webpack from 5.35.0 to 5.35.1
+- [`27d6175`](https://github.com/betahuhn/workers-template/commit/27d6175)  Bump @cloudflare/wrangler from 1.16.0 to 1.16.1
+- [`3a1de80`](https://github.com/betahuhn/workers-template/commit/3a1de80)  Bump @types/chai from 4.2.16 to 4.2.17
+- [`82f42d8`](https://github.com/betahuhn/workers-template/commit/82f42d8)  Bump webpack from 5.35.1 to 5.36.0
+- [`78fc533`](https://github.com/betahuhn/workers-template/commit/78fc533)  Bump webpack from 5.36.0 to 5.36.1
+- [`3368fe7`](https://github.com/betahuhn/workers-template/commit/3368fe7)  Bump @cloudflare/workers-types from 2.2.1 to 2.2.2
+
 ## [v1.0.6] - 2021-04-26
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.6) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.5...v1.0.6) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.6) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.6.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.6.tar.gz))
