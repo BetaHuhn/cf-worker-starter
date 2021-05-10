@@ -1,3 +1,15 @@
+## [v1.0.8] - 2021-05-10
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.8) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.7...v1.0.8) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.8) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.8.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.8.tar.gz))
+
+### Dependency updates
+
+- [`e3b825b`](https://github.com/betahuhn/workers-template/commit/e3b825b)  Bump webpack from 5.36.1 to 5.36.2
+- [`fc799f4`](https://github.com/betahuhn/workers-template/commit/fc799f4)  Bump stefanzweifel/git-auto-commit-action
+- [`56a78a0`](https://github.com/betahuhn/workers-template/commit/56a78a0)  Bump @typescript-eslint/eslint-plugin from 4.22.0 to 4.22.1
+- [`08dd5bb`](https://github.com/betahuhn/workers-template/commit/08dd5bb)  Bump @typescript-eslint/parser from 4.22.0 to 4.22.1
+- [`8573751`](https://github.com/betahuhn/workers-template/commit/8573751)  Bump webpack-cli from 4.6.0 to 4.7.0
+
 ## [v1.0.7] - 2021-05-03
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.7) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.6...v1.0.7) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.7) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.7.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.7.tar.gz))
