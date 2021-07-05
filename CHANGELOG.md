@@ -1,3 +1,16 @@
+## [v1.0.16] - 2021-07-05
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.16) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.15...v1.0.16) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.16) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.16.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.16.tar.gz))
+
+### Dependency updates
+
+- [`f911eb3`](https://github.com/betahuhn/workers-template/commit/f911eb3)  Bump webpack from 5.40.0 to 5.41.0
+- [`c7a20c8`](https://github.com/betahuhn/workers-template/commit/c7a20c8)  Bump @typescript-eslint/eslint-plugin from 4.28.0 to 4.28.1
+- [`b6262e7`](https://github.com/betahuhn/workers-template/commit/b6262e7)  Bump @typescript-eslint/parser from 4.28.0 to 4.28.1
+- [`d9d4bf8`](https://github.com/betahuhn/workers-template/commit/d9d4bf8)  Bump webpack from 5.41.0 to 5.41.1
+- [`336737f`](https://github.com/betahuhn/workers-template/commit/336737f)  Bump typescript from 4.3.4 to 4.3.5
+- [`4731708`](https://github.com/betahuhn/workers-template/commit/4731708)  Bump webpack from 5.41.1 to 5.42.0
+
 ## [v1.0.15] - 2021-06-28
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.15) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.14...v1.0.15) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.15) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.15.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.15.tar.gz))
