@@ -1,3 +1,19 @@
+## [v1.0.17] - 2021-07-12
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.17) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.16...v1.0.17) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.17) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.17.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.17.tar.gz))
+
+### Dependency updates
+
+- [`7ab21bf`](https://github.com/betahuhn/workers-template/commit/7ab21bf)  Bump eslint from 7.29.0 to 7.30.0
+- [`70b9055`](https://github.com/betahuhn/workers-template/commit/70b9055)  Bump @typescript-eslint/parser from 4.28.1 to 4.28.2
+- [`064b1ae`](https://github.com/betahuhn/workers-template/commit/064b1ae)  Bump webpack from 5.42.0 to 5.42.1
+- [`6cae6e3`](https://github.com/betahuhn/workers-template/commit/6cae6e3)  Bump @typescript-eslint/eslint-plugin from 4.28.1 to 4.28.2
+- [`92d5e79`](https://github.com/betahuhn/workers-template/commit/92d5e79)  Bump webpack from 5.42.1 to 5.43.0
+- [`6609486`](https://github.com/betahuhn/workers-template/commit/6609486)  Bump @types/mocha from 8.2.2 to 8.2.3
+- [`77e1720`](https://github.com/betahuhn/workers-template/commit/77e1720)  Bump @types/chai from 4.2.19 to 4.2.20
+- [`a0706ac`](https://github.com/betahuhn/workers-template/commit/a0706ac)  Bump @types/chai from 4.2.20 to 4.2.21
+- [`4ac24f9`](https://github.com/betahuhn/workers-template/commit/4ac24f9)  Bump webpack from 5.43.0 to 5.44.0
+
 ## [v1.0.16] - 2021-07-05
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.16) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.15...v1.0.16) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.16) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.16.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.16.tar.gz))
