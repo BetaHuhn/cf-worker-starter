@@ -1,3 +1,13 @@
+## [v1.0.18] - 2021-07-19
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.18) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.17...v1.0.18) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.18) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.18.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.18.tar.gz))
+
+### Dependency updates
+
+- [`719cd23`](https://github.com/betahuhn/workers-template/commit/719cd23)  Bump @typescript-eslint/eslint-plugin from 4.28.2 to 4.28.3
+- [`c8e2761`](https://github.com/betahuhn/workers-template/commit/c8e2761)  Bump @typescript-eslint/parser from 4.28.2 to 4.28.3
+- [`96ea52c`](https://github.com/betahuhn/workers-template/commit/96ea52c)  Bump @cloudflare/wrangler from 1.17.0 to 1.18.0
+
 ## [v1.0.17] - 2021-07-12
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.17) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.16...v1.0.17) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.17) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.17.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.17.tar.gz))
