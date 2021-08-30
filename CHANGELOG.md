@@ -1,3 +1,13 @@
+## [v1.0.24] - 2021-08-30
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.24) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.23...v1.0.24) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.24) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.24.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.24.tar.gz))
+
+### Dependency updates
+
+- [`209acef`](https://github.com/betahuhn/workers-template/commit/209acef)  Bump @typescript-eslint/eslint-plugin from 4.29.2 to 4.29.3
+- [`569e5b1`](https://github.com/betahuhn/workers-template/commit/569e5b1)  Bump @typescript-eslint/parser from 4.29.2 to 4.29.3
+- [`acb5abb`](https://github.com/betahuhn/workers-template/commit/acb5abb)  Bump typescript from 4.3.5 to 4.4.2
+
 ## [v1.0.23] - 2021-08-23
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.23) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.22...v1.0.23) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.23) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.23.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.23.tar.gz))
