@@ -1,3 +1,16 @@
+## [v1.0.27] - 2021-09-20
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.27) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.26...v1.0.27) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.27) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.27.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.27.tar.gz))
+
+### Dependency updates
+
+- [`7022c8e`](https://github.com/betahuhn/workers-template/commit/7022c8e)  Bump stefanzweifel/git-auto-commit-action
+- [`50eb54f`](https://github.com/betahuhn/workers-template/commit/50eb54f)  Bump typescript from 4.4.2 to 4.4.3
+- [`fa5f7fe`](https://github.com/betahuhn/workers-template/commit/fa5f7fe)  Bump @typescript-eslint/parser from 4.31.0 to 4.31.1
+- [`bba7d01`](https://github.com/betahuhn/workers-template/commit/bba7d01)  Bump @typescript-eslint/eslint-plugin from 4.31.0 to 4.31.1
+- [`a4b83c5`](https://github.com/betahuhn/workers-template/commit/a4b83c5)  Bump @cloudflare/wrangler from 1.19.2 to 1.19.3
+- [`0117f23`](https://github.com/betahuhn/workers-template/commit/0117f23)  Bump webpack from 5.52.1 to 5.53.0
+
 ## [v1.0.26] - 2021-09-13
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.26) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.25...v1.0.26) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.26) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.26.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.26.tar.gz))
