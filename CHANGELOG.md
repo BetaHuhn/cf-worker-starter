@@ -1,3 +1,12 @@
+## [v1.0.28] - 2021-09-27
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.28) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.27...v1.0.28) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.28) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.28.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.28.tar.gz))
+
+### Dependency updates
+
+- [`dbc475d`](https://github.com/betahuhn/workers-template/commit/dbc475d)  Bump @typescript-eslint/parser from 4.31.1 to 4.31.2
+- [`d0aa5a1`](https://github.com/betahuhn/workers-template/commit/d0aa5a1)  Bump @types/chai from 4.2.21 to 4.2.22
+
 ## [v1.0.27] - 2021-09-20
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.27) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.26...v1.0.27) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.27) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.27.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.27.tar.gz))
