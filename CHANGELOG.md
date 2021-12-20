@@ -1,3 +1,12 @@
+## [v1.0.39] - 2021-12-20
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.39) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.38...v1.0.39) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.39) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.39.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.39.tar.gz))
+
+### Dependency updates
+
+- [`3239bf8`](https://github.com/betahuhn/workers-template/commit/3239bf8)  Bump typescript from 4.5.3 to 4.5.4
+- [`1f90dd1`](https://github.com/betahuhn/workers-template/commit/1f90dd1)  Bump @cloudflare/wrangler from 1.19.5 to 1.19.6
+
 ## [v1.0.38] - 2021-12-13
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.38) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.37...v1.0.38) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.38) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.38.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.38.tar.gz))
