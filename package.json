@@ -1,6 +1,6 @@
 {
 	"name": "@betahuhn/cf-worker-starter",
-	"version": "1.0.40",
+	"version": "1.0.41",
 	"description": "Starter Template for Cloudflare Workers with GitHub Actions CI and Automatic Releases",
 	"main": "index.js",
 	"scripts": {

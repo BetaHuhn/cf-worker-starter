@@ -1,3 +1,13 @@
+## [v1.0.41] - 2022-01-17
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.41) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.40...v1.0.41) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.41) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.41.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.41.tar.gz))
+
+### Dependency updates
+
+- [`bec4a0f`](https://github.com/betahuhn/workers-template/commit/bec4a0f)  Bump stefanzweifel/git-auto-commit-action
+- [`9be2622`](https://github.com/betahuhn/workers-template/commit/9be2622)  Bump webpack from 5.65.0 to 5.66.0
+- [`9c5e9b0`](https://github.com/betahuhn/workers-template/commit/9c5e9b0)  Bump stefanzweifel/git-auto-commit-action
+
 ## [v1.0.40] - 2022-01-10
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.40) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.39...v1.0.40) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.40) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.40.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.40.tar.gz))
