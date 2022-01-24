@@ -1,3 +1,11 @@
+## [v1.0.42] - 2022-01-24
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.42) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.41...v1.0.42) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.42) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.42.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.42.tar.gz))
+
+### Dependency updates
+
+- [`fa58f26`](https://github.com/betahuhn/workers-template/commit/fa58f26)  Bump typescript from 4.5.4 to 4.5.5
+
 ## [v1.0.41] - 2022-01-17
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.41) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.40...v1.0.41) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.41) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.41.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.41.tar.gz))
