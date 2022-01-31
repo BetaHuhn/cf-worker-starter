@@ -1,3 +1,14 @@
+## [v1.0.43] - 2022-01-31
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.43) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.42...v1.0.43) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.43) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.43.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.43.tar.gz))
+
+### Dependency updates
+
+- [`3874f1a`](https://github.com/betahuhn/workers-template/commit/3874f1a)  Bump webpack from 5.66.0 to 5.67.0
+- [`223f489`](https://github.com/betahuhn/workers-template/commit/223f489)  Bump webpack-cli from 4.9.1 to 4.9.2
+- [`70e6b05`](https://github.com/betahuhn/workers-template/commit/70e6b05)  Bump chai from 4.3.4 to 4.3.5
+- [`402ad02`](https://github.com/betahuhn/workers-template/commit/402ad02)  Bump chai from 4.3.5 to 4.3.6
+
 ## [v1.0.42] - 2022-01-24
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.42) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.41...v1.0.42) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.42) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.42.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.42.tar.gz))
