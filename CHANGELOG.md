@@ -1,3 +1,13 @@
+## [v1.0.49] - 2022-03-28
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.49) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.48...v1.0.49) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.49) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.49.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.49.tar.gz))
+
+### Dependency updates
+
+- [`79d8dcc`](https://github.com/betahuhn/workers-template/commit/79d8dcc)  Bump stefanzweifel/git-auto-commit-action
+- [`eda3bda`](https://github.com/betahuhn/workers-template/commit/eda3bda)  Bump @cloudflare/wrangler from 1.19.9 to 1.19.11
+- [`6394a7b`](https://github.com/betahuhn/workers-template/commit/6394a7b)  Bump typescript from 4.6.2 to 4.6.3
+
 ## [v1.0.48] - 2022-03-21
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.48) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.47...v1.0.48) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.48) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.48.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.48.tar.gz))
