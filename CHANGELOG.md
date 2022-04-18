@@ -1,3 +1,12 @@
+## [v1.0.51] - 2022-04-18
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.51) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.50...v1.0.51) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.51) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.51.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.51.tar.gz))
+
+### Dependency updates
+
+- [`eaa965e`](https://github.com/betahuhn/workers-template/commit/eaa965e)  Bump stefanzweifel/git-auto-commit-action
+- [`a7ef164`](https://github.com/betahuhn/workers-template/commit/a7ef164)  Bump @types/chai from 4.3.0 to 4.3.1
+
 ## [v1.0.50] - 2022-04-11
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.50) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.49...v1.0.50) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.50) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.50.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.50.tar.gz))
