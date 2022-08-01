@@ -1,3 +1,11 @@
+## [v1.0.59] - 2022-08-01
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.59) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.58...v1.0.59) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.59) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.59.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.59.tar.gz))
+
+### Dependency updates
+
+- [`a3ec764`](https://github.com/betahuhn/workers-template/commit/a3ec764)  Bump webpack from 5.73.0 to 5.74.0
+
 ## [v1.0.58] - 2022-07-04
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.58) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.57...v1.0.58) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.58) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.58.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.58.tar.gz))
