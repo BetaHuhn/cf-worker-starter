@@ -1,3 +1,11 @@
+## [v1.0.60] - 2022-08-15
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.60) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.59...v1.0.60) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.60) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.60.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.60.tar.gz))
+
+### Dependency updates
+
+- [`4ed2b2d`](https://github.com/betahuhn/workers-template/commit/4ed2b2d)  Bump @types/chai from 4.3.1 to 4.3.3
+
 ## [v1.0.59] - 2022-08-01
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.59) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.58...v1.0.59) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.59) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.59.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.59.tar.gz))
