@@ -1,3 +1,12 @@
+## [v1.0.67] - 2022-10-31
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.67) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.66...v1.0.67) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.67) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.67.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.67.tar.gz))
+
+### Dependency updates
+
+- [`b9c51fe`](https://github.com/betahuhn/workers-template/commit/b9c51fe)  Bump stefanzweifel/git-auto-commit-action
+- [`3523991`](https://github.com/betahuhn/workers-template/commit/3523991)  Bump stefanzweifel/git-auto-commit-action
+
 ## [v1.0.66] - 2022-10-17
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.66) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.65...v1.0.66) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.66) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.66.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.66.tar.gz))
