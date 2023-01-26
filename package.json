@@ -29,7 +29,7 @@
 	},
 	"homepage": "https://github.com/betahuhn/workers-template#readme",
 	"devDependencies": {
-		"@cloudflare/workers-types": "^2.2.2",
+		"@cloudflare/workers-types": "^4.20230115.0",
 		"@cloudflare/wrangler": "^1.20.0",
 		"@types/chai": "^4.3.3",
 		"@types/mocha": "^8.2.3",
