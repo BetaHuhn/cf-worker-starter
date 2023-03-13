@@ -1,3 +1,13 @@
+## [v1.0.72] - 2023-03-13
+
+[Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.72) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.71...v1.0.72) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.72) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.72.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.72.tar.gz))
+
+### Dependency updates
+
+- [`5e9b157`](https://github.com/betahuhn/workers-template/commit/5e9b157)  Bump @cloudflare/wrangler from 1.20.0 to 1.21.0
+- [`17e7866`](https://github.com/betahuhn/workers-template/commit/17e7866)  Bump typescript from 4.9.4 to 4.9.5
+- [`11ee9b8`](https://github.com/betahuhn/workers-template/commit/11ee9b8)  Bump webpack from 5.75.0 to 5.76.0
+
 ## [v1.0.71] - 2023-01-23
 
 [Release notes](https://github.com/betahuhn/workers-template/releases/tag/v1.0.71) · [Compare](https://github.com/betahuhn/workers-template/compare/v1.0.70...v1.0.71) · [Tag](https://github.com/betahuhn/workers-template/tree/v1.0.71) · Archive ([zip](https://github.com/betahuhn/workers-template/archive/v1.0.71.zip) · [tar.gz](https://github.com/betahuhn/workers-template/archive/v1.0.71.tar.gz))
